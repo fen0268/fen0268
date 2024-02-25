@@ -19,6 +19,8 @@
 
 年齢 : 20歳(2003年1月7日)
 
+大学 : 東京通信大学情報マネジメント学部学科 (大学3年)
+
 Flutter歴は2年ほど
 業務歴は半年ほど
 
@@ -33,11 +35,16 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 ## スキルシート
 
 ### Flutter
-- Riverpod
-- GoRouter
-- GoogleMaps
-- Firebase
-- Supabase
+- flutter_riverpod
+- go_router 
+- google_maps_flutter
+- freezed
+
+#### database
+- firebase
+- flutter_supabase
+- objectbox
+- hive
 
 
 ## 職務経歴
