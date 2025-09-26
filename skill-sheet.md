@@ -1,14 +1,14 @@
-(最新更新日 : 2025年3月5日)
+(最新更新日 : 2025年9月27日)
 
 ## 得意分野
 <table>
     <tr>
         <td><strong>業務</strong></td>
-        <td>モバイルアプリケーション開発</td>
+        <td>Flutter を用いたモバイルアプリケーション、Web アプリケーション開発</td>
     </tr>
     <tr>
         <td><strong>技術</strong></td>
-        <td>Flutter, Firebase, Supabase</td>
+        <td>Flutter, TypeScript, Firebase</td>
     </tr>
 </table>
 
@@ -19,14 +19,10 @@
 
 年齢 : 22歳(2003年1月7日)
 
-大学 : 東京通信大学情報マネジメント学部学科 (大学4年)
-
-Flutter歴 : 3年
+Flutter歴 : 3年  
 業務歴 : 2年
 
-
-Flutter を用いてモバイルアプリの開発、リリースを一通り経験済み。
-
+Flutter を用いてモバイルアプリの開発、リリースを一通り経験済み。iOS/Androidの両プラットフォームへの対応から、App Store/Google Play Storeへのリリース作業まで、アプリ開発の全工程を担当できます。
 
 [Github アカウント](https://github.com/fen0268)
 
@@ -34,45 +30,119 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 
 ## スキルシート
 
-### Flutter
-- flutter_riverpod
-- go_router 
-- google_maps_flutter
-- freezed
-- hooks
+<details>
+<summary><strong>Flutter</strong></summary>
 
-#### database
-- firebase
-- flutter_supabase
-- objectbox
-- hive
+- Riverpod
+- Hooks
+- GoRouter
+- Image Picker
+- Camera
+- OpenCV
+- ObjectBox
+- Hive
+- Shared Preferences
+</details>
+
+<details>
+<summary><strong>Database</strong></summary>
+
+- Firebase
+- Supabase
+</details>
+
+<details>
+
+<summary><strong>開発環境・ツール</strong></summary>
+
+- GitHub
+- CI/CD (GitHub Actions)
+- VSCode
+
+<strong>プラットフォーム</strong> : iOS / Android / Web対応経験
+
 
 
 ## 職務経歴
 
 ### 株式会社プロシーズ
 
-■ 開発内容
-- Firebase を用いた開発
-- 全文検索の実装
+■ プロジェクト概要
+- クローズドな知識共有アプリの開発
+- チーム規模：5人
+- 役割：Flutterエンジニア
+
+■ 開発内容・実績
+- Firebase Firestoreを用いたリアルタイムデータ同期機能の実装
+- Firebaseを利用した全文検索機能の設計・実装
+- 【具体的な機能や改善内容を追加】
 
 ■ 使用技術
-- Flutter, Firebase
+- Flutter
+- Firebase (Firestore, Authentication, Cloud Functions)
+- 状態管理：【Provider, ChangeNotifier】
 
 ■ 開発期間（業務委託）
 - 2022年6月 - 2022年9月
 
 ### 株式会社デコレーションカンパニー
 
-■ 開発内容
-- デザイン時の UI を調整
-- Flutter web への対応
+■ プロジェクト概要
+- 【プロジェクト名を記載】アプリの開発・改善
+- チーム規模：4人
+- 役割：Flutterエンジニア
+
+■ 開発内容・実績
+- デザインシステムに基づいたUIコンポーネントの実装
+- レスポンシブデザインの実装（モバイル・タブレット・Web対応）
+- 画像の表示最適化とパフォーマンス改善
+- 背景透過や画像のリサイズ機能の実装
 
 ■ 使用技術
-- Flutter, Firebase, GraphQL
+- Flutter 
+- GraphQL (graphql_flutter)
+- Firebase (Analytics, Crashlytics)
+- 状態管理：【Riverpod/Hooks】
 
 ■ 開発期間（業務委託）
-- 2023年12月 - 現在
+- 2023年12月 - 2024年3月
+
+### 株式会社Drip
+
+■ プロジェクト概要
+- 【プロジェクト名を記載】アプリの開発・改善
+- チーム規模：2人
+- 役割：Flutterエンジニア
+
+■ 開発内容・実績
+1. aa アプリの開発
+2. bb アプリの開発
+3. cc アプリの開発
+
+■ 使用技術
+- Flutter
+- Firebase (Firestore, Functions)
+- 状態管理：【Riverpod/Hooks】
+
+■ 開発期間（業務委託）
+- 2024年4月 - 2024年9月
+
+### 株式会社LifeShift
+■ プロジェクト概要
+- 【プロジェクト名を記載】アプリの開発・改善
+- チーム規模：4人
+- 役割：Flutterエンジニア
+
+■ 開発内容
+- デザインシステムに基づいたUIコンポーネントの実装
+- レスポンシブデザインの実装（モバイル・タブレット・Web対応）
+- 画像の表示最適化とパフォーマンス改善
+- 背景透過や画像のリサイズ機能の実装
+
+■ 使用技術
+- Flutter
+- Firebase (Firestore, Authentication)
+- 状態管理：【Riverpod/Hooks】
 
 ## 職務以外の活動
 
