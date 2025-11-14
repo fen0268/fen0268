@@ -1,6 +1,6 @@
 # スキルシート
 
-_最終更新日: 2025 年 9 月 27 日_
+_最終更新日: 2025 年 11 月 14 日_
 
 ---
 
@@ -10,11 +10,12 @@ _最終更新日: 2025 年 9 月 27 日_
 | ----------- | ---------------------------------------------------------------- |
 | 氏名        | 上田 賢志                                                        |
 | 生年月日    | 2003 年 1 月 7 日（22 歳）                                       |
-| 居住地      | 沖縄県                                                           |
+| 居住地      | 福岡県北九州市                                                           |
 | 最終学歴    | 東京通信大学在学中                                               |
 | 連絡先      | fenc0268@gmail.com                                               |
 | GitHub      | [https://github.com/fen0268](https://github.com/fen0268)         |
 | X (Twitter) | [https://twitter.com/fencer0268](https://twitter.com/fencer0268) |
+| 好きな歌手  | 浜田省吾                                        |
 
 ---
 
@@ -57,6 +58,7 @@ Flutter 歴 3 年、業務経験 2 年のモバイルアプリエンジニア。
 | **Firebase**            | 3 年     | ★★★☆☆  |                               |
 | ├ Firestore             | 3 年     | ★★★☆☆  | リアルタイム DB、全文検索実装 |
 | ├ Authentication        | 2 年     | ★★★☆☆  | 認証システム構築              |
+| ├ Firebase Storage      | 2 年     | ★★★☆☆  | 画像・動画アップロード        |
 | ├ Cloud Functions       | 2 年     | ★★★☆☆  | サーバーレス処理              |
 | └ Analytics/Crashlytics | 1 年     | ★★★☆☆  | 分析・エラー監視              |
 | **Supabase**            | 1 年     | ★★☆☆☆  | Auth、リアルタイム DB         |
@@ -84,6 +86,27 @@ Flutter 歴 3 年、業務経験 2 年のモバイルアプリエンジニア。
 
 ## 職務経歴
 
+### 株式会社Galirage
+
+_2025 年 10 月 - 現在(業務委託)_
+
+**プロジェクト: MediaPipe を活用したゲームアプリ**
+
+- **概要**: MediaPipe を用いて口元トラッキング技術を用いたゲームアプリ開発
+- **チーム規模**: 6 名（Flutter 2 名）
+- **役割**: Flutter エンジニア (iOS/Android のネイティブ連携部分を主に担当)
+
+**担当業務・実績:**
+
+- MediaPipe を Flutter アプリに組み込むためのネイティブコード実装 (iOS: Swift, Android: Kotlin)
+- 口元トラッキングデータをリアルタイムで取得し、ゲームロジックに反映させる機能の実装
+- Flame パッケージを用いたゲーム実装
+
+**使用技術:**
+- Flutter, Flame, MethodChannel, Riverpod, GoRouter, Melos
+- Swift (MediaPipe iOS SDK)
+- Kotlin (MediaPipe Android SDK)
+
 ### 株式会社 LifeShift
 
 _2025 年 7 月 - 現在（業務委託）_
@@ -98,11 +121,12 @@ _2025 年 7 月 - 現在（業務委託）_
 
 - デザインシステムに基づいた再利用可能な UI コンポーネントライブラリの構築
 - モバイル・タブレット・Web 対応のレスポンシブデザイン実装
-- 画像最適化により読み込み速度を 40%改善
 - 背景透過・画像リサイズ機能の実装による UX 向上
+- RPA ツールとの連携機能の設計・実装
 
 **使用技術:**
-Flutter, Riverpod, Firebase (Firestore, Authentication, Firebase Storage, Cloud Functions), GoRouter
+- Flutter, Riverpod, Firebase (Firestore, Authentication, Firebase Storage, Cloud Functions), GoRouter
+- Typescript, Puppeteer
 
 ---
 
@@ -188,6 +212,15 @@ _2023 年 7 月 - 2023 年 10 月_
 - **成果**: ユーザビリティを重視した UI で企業賞を獲得
 
 ### 💻 ハッカソン参加
+
+#### 【起業家が出場】AI駆動開発ガチバトルハッカソン
+
+_2025 年 11 月 6 日 - 11 月 7 日_
+- **開発内容**: オンラインにらめっこゲームアプリ
+- **担当**: 1人開発、UI 設計
+- **技術**: Flutter, Firebase, MediaPipe
+- **学び**: リアルタイム対戦ゲームの開発経験, AI駆動開発の理解
+- **リポジトリ**: [GitHub リポジトリ](https://github.com/fen0268/Hackathon-in-Nagonova)
 
 #### 東京 Flutter ハッカソン
 
